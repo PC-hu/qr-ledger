@@ -21,7 +21,7 @@
 - `index.html`：页面结构
 - `style.css`：响应式样式
 - `app.js`：摄像头、记录管理、持久化和导出逻辑
-- `vendor/jsQR.js`：jsQR 1.4.0（MIT）
+- `vendor/jsQR.js`：jsQR 1.4.0（Apache-2.0，许可证见 `vendor/LICENSE-jsQR`）
 
 ## 使用与数据
 
