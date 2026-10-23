@@ -5,3 +5,5 @@
 .file-actions{display:flex;gap:6px;flex-wrap:wrap}.file-actions button{font-size:12px;padding:8px}
 
 .event-time{color:#82907f;font-size:11px}
+
+.header-actions{display:flex;align-items:center;gap:12px}.share-button{display:inline-flex;align-items:center;justify-content:center;padding:8px}.share-button svg{display:block}#shareDialog{text-align:center}#shareCode{display:block;width:min(100%,280px);height:auto;margin:20px auto;image-rendering:pixelated}.share-address{font-size:12px;overflow-wrap:anywhere;color:#658173}
