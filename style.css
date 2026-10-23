@@ -3,3 +3,5 @@
 .ticket-link{display:block;color:#17664f;text-decoration:underline;text-underline-offset:3px}.ticket-link:focus-visible{outline:3px solid #95c3ac}.ticket-controls{display:flex;align-items:center;flex-wrap:wrap;gap:16px;margin-top:10px;font-size:12px}.opened{color:#17664f}.unopened{color:#82907f}.binding{display:inline-flex;align-items:center;gap:7px;cursor:pointer}.binding input{width:32px;height:20px;accent-color:#17664f;cursor:pointer}
 
 .file-actions{display:flex;gap:6px;flex-wrap:wrap}.file-actions button{font-size:12px;padding:8px}
+
+.event-time{color:#82907f;font-size:11px}
